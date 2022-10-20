@@ -1,1 +1,1 @@
-This is a blank project that is not connected to any repository.
+This is a blank project.
